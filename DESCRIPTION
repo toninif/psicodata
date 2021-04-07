@@ -1,0 +1,17 @@
+Package: psicodata
+Type: Package
+Title: Paquete con bases de datos psicologicos en castellano
+Version: 0.1.0
+Author@R: c(
+    person("Fernando", "Tonini", email="fernandotonini11@gmail.com", role = c("aut", "cre"))
+    )
+Maintainer: Fernando Tonini <fernandotonini11@gmail.com>
+Description: Este paquete contiene bases de datos utiles para utilizar mientras aprendemos a trabajar con R.
+     Esta orientada a que la utilicen personas de areas relacionadas a la psicologia. La idea es que si estas en psico
+     y queres a aprender a utilizar R, entonces puedas hacerlo con datos familiares. Me parece mucho mas motivador que
+     usar datos de autos o dinero.
+Depends:
+    R (>= 4.0.2)
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
