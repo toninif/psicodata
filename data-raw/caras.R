@@ -36,3 +36,4 @@ caras$Region[caras$Region == "USA & Canada"] <- "EE.UU y Canada"
 caras$Region[caras$Region == "Western Europe"] <- "Europa Occidental"
 
 
+usethis::use_data(caras)
