@@ -15,4 +15,11 @@ ayudar e inspirar a futures profesionales a usar R, armar sus propios paquetes y
 prestadores: Esta base nos brinda datos (2018-2019) de quienes estan inscriptos en el resgistro de prestadores de salud de la Argentina.
             Estos datos son publicos, por lo que podran encontrar nombres, numero de tramite y profesión.
             
-caras: Con esta base podemos trabajar con datos producto de la percepcion de caras.
+caras: Con esta base podemos trabajar con datos producto de la percepcion de caras. El repositorio original esta en el archivo caras.R.
+
+emociones: esta base surge a partir de los datos de mi tesis de grado. Lo que hice fue gerar datos sinteticos, similares pero que cumplieran
+con su razon de ser. Pueden analizar la base teniendo en cuenta un modelo de emocion dimensional. Encontraran datos generales, de hombres y mujeres
+que representan la expresion emocional en funcion de tres dimensiones: valencia, activacion y dominancia.
+
+Big5: esta base tambien es una base con datos similares a los originales, pero que permiten su analisis. Van a poder trabajar con datos de personalidad
+utilizando las cinco dimensiones del Big 5: Extraversion; Responsabilidad; Agradabilidad; Apertura a la Experiencia y Neuroticismo.
